@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/Warpguru/shipping-service#readme",
   "devDependencies": {
+    "nock": "^10.0.6",
     "sinon": "^7.3.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4"
   }
 }
