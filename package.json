@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Warpguru/shipping-service/issues"
   },
-  "homepage": "https://github.com/Warpguru/shipping-service#readme"
+  "homepage": "https://github.com/Warpguru/shipping-service#readme",
+  "devDependencies": {
+    "sinon": "^7.3.2"
+  }
 }
